@@ -1,0 +1,14 @@
+{
+  "name": "electron-pip-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "ankurdeepjaiswal@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "v8.5.2"
+  }
+}
